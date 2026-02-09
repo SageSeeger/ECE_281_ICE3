@@ -15,6 +15,7 @@ end ripple_adder;
 
 architecture Behavioral of ripple_adder is
 
+<<<<<<< HEAD
     component full_adder is
         port (
             A     : in std_logic;
@@ -67,4 +68,13 @@ begin
         );
 
 Cout <= w_carry(3);
+=======
+    -- Declare components here
+    
+    -- Declare signals here
+
+begin
+
+
+>>>>>>> c3e0eb91e17faa951e74870fd8084b66e8d44b74
 end Behavioral;

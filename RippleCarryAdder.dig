@@ -525,6 +525,7 @@
       <pos x="700" y="-40"/>
     </visualElement>
   </visualElements>
+<<<<<<< HEAD
   <wires>
     <wire>
       <p1 x="-80" y="240"/>
@@ -755,5 +756,8 @@
       <p2 x="380" y="440"/>
     </wire>
   </wires>
+=======
+  <wires/>
+>>>>>>> c3e0eb91e17faa951e74870fd8084b66e8d44b74
   <measurementOrdering/>
 </circuit>
