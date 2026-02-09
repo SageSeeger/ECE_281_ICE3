@@ -11,7 +11,6 @@
 ## Switches
 set_property PACKAGE_PIN V17 [get_ports {sw[0]}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {sw[0]}]
-<<<<<<< HEAD
 set_property PACKAGE_PIN V16 [get_ports {sw[1]}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {sw[1]}]
 set_property PACKAGE_PIN W16 [get_ports {sw[2]}]					
@@ -77,7 +76,7 @@ set_property PACKAGE_PIN P1 [get_ports {led[14]}]
 	set_property IOSTANDARD LVCMOS33 [get_ports {led[14]}]
 set_property PACKAGE_PIN L1 [get_ports {led[15]}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {led[15]}]
-=======
+
 #set_property PACKAGE_PIN V16 [get_ports {sw[1]}]					
 	#set_property IOSTANDARD LVCMOS33 [get_ports {sw[1]}]
 #set_property PACKAGE_PIN W16 [get_ports {sw[2]}]					
@@ -143,7 +142,7 @@ set_property PACKAGE_PIN L1 [get_ports {led[15]}]
 	#set_property IOSTANDARD LVCMOS33 [get_ports {led[14]}]
 #set_property PACKAGE_PIN L1 [get_ports {led[15]}]					
 	#set_property IOSTANDARD LVCMOS33 [get_ports {led[15]}]
->>>>>>> c3e0eb91e17faa951e74870fd8084b66e8d44b74
+
 	
 	
 ##7 segment display
