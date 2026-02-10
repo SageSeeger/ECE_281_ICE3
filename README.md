@@ -24,4 +24,4 @@ If any of the `assert` statements fail then GHDL will cease the simulation and e
 Assert statements of other severity levels will be reported, but not fail the workflow.
 
 ![ripple adder waveform which tests 0+0+0, 15+15+1, 0+0+1, 4+5+0, and 8+8](ripple_adder.png)
-![top basy sketch indicating the inputs and outputs](basy3 sketch.png)
+![top basy sketch indicating the inputs and outputs](basy3_sketch.png)
