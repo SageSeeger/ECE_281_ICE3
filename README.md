@@ -25,3 +25,5 @@ Assert statements of other severity levels will be reported, but not fail the wo
 
 ![ripple adder waveform which tests 0+0+0, 15+15+1, 0+0+1, 4+5+0, and 8+8](rippleAddSim.png)
 ![top basy sketch indicating the inputs and outputs](ripple_adder.png)
+
+## Documentation statement
