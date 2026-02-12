@@ -23,5 +23,5 @@ Finally, the workflow **runs** the simulation. If successful then it will quietl
 If any of the `assert` statements fail then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels will be reported, but not fail the workflow.
 
-![ripple adder waveform which tests 0+0+0, 15+15+1, 0+0+1, 4+5+0, and 8+8](ripple_adder.png)
-![top basy sketch indicating the inputs and outputs](rippleAdder.png)
+![ripple adder waveform which tests 0+0+0, 15+15+1, 0+0+1, 4+5+0, and 8+8](rippleAddSim.png)
+![top basy sketch indicating the inputs and outputs](ripple_adder.png)
