@@ -27,3 +27,4 @@ Assert statements of other severity levels will be reported, but not fail the wo
 ![top basy sketch indicating the inputs and outputs](ripple_adder.png)
 
 ## Documentation statement
+I recieved no additional, outside, or unauthorized help on this assignment. 
